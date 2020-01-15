@@ -1,0 +1,2 @@
+(a) ifconfig | awk '/broadcast/{print $NF}'
+(b) arp -a | grep 192.168.

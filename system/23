@@ -1,0 +1,10 @@
+Grafical:
+1. Select VM
+2. Push buttom "Show"
+3. Enter login
+4. Enter password
+
+SSH:
+1. Open terminal
+2. Enter command <ssh login@server_address>
+3. Enter password

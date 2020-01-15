@@ -1,0 +1,1 @@
+df | awk '/Filesystem/' && df -h --total | awk '/total/'

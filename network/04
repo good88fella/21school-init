@@ -1,0 +1,1 @@
+netstat -r -n | grep -w "Internet" -A 2 | awk '/default/ {print $2}'
